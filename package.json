@@ -1,0 +1,22 @@
+{
+  "name": "dev20k-gen",
+  "version": "0.0.0",
+  "description": "",
+  "main": "generators/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebdybowski/dev20k-gen.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Seb Dybowski <dybowski@int.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebdybowski/dev20k-gen/issues"
+  },
+  "homepage": "https://github.com/sebdybowski/dev20k-gen#readme"
+}
